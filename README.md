@@ -1,3 +1,3 @@
 # bash_profile
-Terminal Alias ect.
+My Terminal Alias ect.
 used in /Users/"___"/.bash_profile
